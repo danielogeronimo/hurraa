@@ -1,0 +1,21 @@
+/* ==========
+    LOGIN
+============*/
+.form-signin { background: #fff url(../img/48x.png) no-repeat 19px 20px; max-width: 240px; padding: 19px 19px 0 19px; margin: 20px auto; border: 1px solid #e5e5e5; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; -webkit-box-shadow: inset 5px 5px 20px #f1f1f2, inset -5px -5px 20px #f1f1f2; -moz-box-shadow: inset 5px 5px 20px #f1f1f2, inset -5px -5px 20px #f1f1f2; box-shadow: inset 5px 5px 20px #f1f1f2, inset -5px -5px 20px #f1f1f2; }
+.form-signin h2 { font-size: 42px; text-align:center; margin:5px 0 0 25px; font-weight: bold; }
+.form-signin h2 span { float:left; text-align:center; font-size: 12px; font-style:italic; color:#777; font-weight: normal; margin:10px 0 10px -13px; line-height:13px; clear:left; }
+.form-signin .form-signin-heading, .form-signin .checkbox { margin-bottom: 10px; }
+.form-signin #user-icon { background: url(../img/blueberry24x.png) no-repeat -193px -25px; width:24px; height:24px; margin:-38px 0 12px 2px; display: block; }
+.form-signin #pswd-icon { background: url(../img/blueberry24x.png) no-repeat -72px 0; width:24px; height:24px; margin:-38px 0 24px 2px; display: block; }
+.form-signin input[type="text"], .form-signin input[type="password"] { background: transparent; font: 12px Helvetica, Arial, sans-serif; height: auto; margin: 0 0 10px 0; padding: 1px 0 1px 28px; }
+.form-signin input[type="text"]:focus, .form-signin input[type="password"]:focus { background: transparent; outline:0; }
+.form-signin button[type="submit"] { font-size: large; margin: 20px 0 35px 0; }
+.form-signin span.logo { margin: -92px 0 10px 90px; width: 150px; height: 75px; display: block; }
+/*===========
+    NAVBAR
+ ============*/
+nav#bar{ background: #000 url(../img/bgnav.png) 0 0 repeat-x ; height:56px; margin:0 0 20px 0;  } 
+nav.navbar-inner .container{ width: auto; margin:-11px 0 0 5px; padding:0; }
+div.nav-collapse{ margin:15px 0 0 0; }
+a.brand span{float: right; clear: right; margin: 0; padding: 7px; font: 32px Helvetica, Arial, sans-serif; font-weight:bold; }
+footer { position:fixed; bottom:0; margin:0 auto; width:100%; height:20px; padding:5px 20px 5px 5px;  border-top:1px solid #e1e2e3 }
